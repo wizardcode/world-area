@@ -1,0 +1,46 @@
+{
+    "RECORDS": [
+        {
+            "id": "1",
+            "name": "Asia",
+            "cname": "亚洲",
+            "lower_name": "asia"
+        },
+        {
+            "id": "2",
+            "name": "Europe",
+            "cname": "欧洲",
+            "lower_name": "europe"
+        },
+        {
+            "id": "3",
+            "name": "Africa",
+            "cname": "非洲",
+            "lower_name": "africa"
+        },
+        {
+            "id": "4",
+            "name": "Oceania",
+            "cname": "大洋洲",
+            "lower_name": "oceania"
+        },
+        {
+            "id": "5",
+            "name": "Antarctica",
+            "cname": "南极洲",
+            "lower_name": "antarctica"
+        },
+        {
+            "id": "6",
+            "name": "North America",
+            "cname": "北美洲",
+            "lower_name": "north america"
+        },
+        {
+            "id": "7",
+            "name": "South America",
+            "cname": "南美洲",
+            "lower_name": "south america"
+        }
+    ]
+}

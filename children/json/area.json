@@ -1,0 +1,76 @@
+{
+    "RECORDS": [
+        {
+            "id": "1",
+            "country_id": "226",
+            "code": "1",
+            "name": "New England",
+            "cname": "新英格兰地区",
+            "lower_name": "new england"
+        },
+        {
+            "id": "2",
+            "country_id": "226",
+            "code": "2",
+            "name": "Mid-Atlantic",
+            "cname": "中大西洋地区",
+            "lower_name": "mid-atlantic"
+        },
+        {
+            "id": "3",
+            "country_id": "226",
+            "code": "3",
+            "name": "Southeast region",
+            "cname": "东南地区",
+            "lower_name": "southeast region"
+        },
+        {
+            "id": "4",
+            "country_id": "226",
+            "code": "4",
+            "name": "Great Lakes",
+            "cname": "五大湖区",
+            "lower_name": "great lakes"
+        },
+        {
+            "id": "5",
+            "country_id": "226",
+            "code": "5",
+            "name": "Southern land",
+            "cname": "南方地区",
+            "lower_name": "southern land"
+        },
+        {
+            "id": "6",
+            "country_id": "226",
+            "code": "6",
+            "name": "Midwest",
+            "cname": "中西部地区",
+            "lower_name": "midwest"
+        },
+        {
+            "id": "7",
+            "country_id": "226",
+            "code": "7",
+            "name": "Rocky Mountain",
+            "cname": "落基山区",
+            "lower_name": "rocky mountain"
+        },
+        {
+            "id": "8",
+            "country_id": "226",
+            "code": "8",
+            "name": "Pacific Coast",
+            "cname": "太平洋海岸区",
+            "lower_name": "pacific coast"
+        },
+        {
+            "id": "9",
+            "country_id": "226",
+            "code": "9",
+            "name": "Southwest Region",
+            "cname": "西南地区",
+            "lower_name": "southwest region"
+        }
+    ]
+}
