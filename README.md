@@ -8,4 +8,4 @@
 该world_area数据分洲，国家，省份（州），区（市），县,美国又分了几大区域，提供中文，英文，编码等相关信息，各级关系链式存储。
 
 ##### 具体关系如下图：
-![image]:(https://raw.githubusercontent.com/wizardcode/world-area/master/chart/index.png)
+[image]:(https://raw.githubusercontent.com/wizardcode/world-area/master/chart/index.png)
